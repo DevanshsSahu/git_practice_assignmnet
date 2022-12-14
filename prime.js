@@ -1,4 +1,4 @@
-1.prime
+//1.prime
 let a=5
 let count=0
 for(let i=0;i<=a;i++){
